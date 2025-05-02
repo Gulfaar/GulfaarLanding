@@ -52,7 +52,7 @@ const ServiceLists = () => {
   const [activeVideo, setActiveVideo] = useState<string | null>(null);
 
   return (
-    <div className="container mx-auto px-4 md:px-8 lg:px-24 py-16">
+    <div className="container mx-auto px-4 md:px-8 lg:px-24 bg-white py-16">
       <h2 className="text-center text-3xl md:text-4xl font-bold text-[#1B4844] mb-12">Our projects</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {services.map((service, index) => (
