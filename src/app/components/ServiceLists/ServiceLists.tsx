@@ -10,7 +10,7 @@ const ServiceLists = () => {
       description: "Whether you're hiring or job hunting, We bring the best to your doorstep",
       image: "/job.png",
       video: "https://www.youtube.com/embed/SG7OlXJaisw",
-      route: "portal.gulfaar.com"
+      route: "jobportal.gulfaar.com"
     },
     {
       title: "Facilitation Management",
